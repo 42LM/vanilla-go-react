@@ -1,5 +1,5 @@
 # vanilla-go-react
-Go backend + React frontend
+Building a vanilla go backend and react frontend. Connect both and serve as a docker container.
 
 ## Quickstart
 ```sh
