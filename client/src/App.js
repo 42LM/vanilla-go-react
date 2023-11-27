@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import Timestamp from './components/Timestamp';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
         >
           Learn React
         </a>
+        <Timestamp />
       </header>
     </div>
   );
