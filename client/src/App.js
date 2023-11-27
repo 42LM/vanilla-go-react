@@ -18,6 +18,7 @@ function App() {
         >
           Learn React
         </a>
+        <p>Timestamp from Go backend sqlite3 DB:</p>
         <Timestamp />
       </header>
     </div>
